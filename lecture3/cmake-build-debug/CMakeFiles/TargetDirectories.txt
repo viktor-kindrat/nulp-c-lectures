@@ -1,0 +1,3 @@
+/Users/viktorkindrat/Workspace/NULP/algo_part_3/lectures/lecture3/cmake-build-debug/CMakeFiles/lecture3.dir
+/Users/viktorkindrat/Workspace/NULP/algo_part_3/lectures/lecture3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viktorkindrat/Workspace/NULP/algo_part_3/lectures/lecture3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
